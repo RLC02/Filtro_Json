@@ -908,8 +908,7 @@
             "CAMBER_TRASEIRA_MIN": "-0º45",
             "CAMBER_TRASEIRA_MAX": "-0º15",
             "CONVERGENCIA_TRASEIRA_MIN": "0.0",
-            "CONVERGENCIA_TRASEIRA_MAX": "1.9",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "1.9"
         },
         {
             "MARCA": "AUDI",
@@ -923,8 +922,7 @@
             "CAMBER_TRASEIRA_MIN": "-1º09",
             "CAMBER_TRASEIRA_MAX": "-0º09",
             "CONVERGENCIA_TRASEIRA_MIN": "0.3",
-            "CONVERGENCIA_TRASEIRA_MAX": "1.3",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "1.3"
         },
         {
             "MARCA": "AUDI",
@@ -938,8 +936,7 @@
             "CAMBER_TRASEIRA_MIN": "-1º09",
             "CAMBER_TRASEIRA_MAX": "-0º09",
             "CONVERGENCIA_TRASEIRA_MIN": "0.6",
-            "CONVERGENCIA_TRASEIRA_MAX": "2.6",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "2.6"
         },
         {
             "MARCA": "AUDI",
@@ -953,8 +950,7 @@
             "CAMBER_TRASEIRA_MIN": "-1º09",
             "CAMBER_TRASEIRA_MAX": "-0º09",
             "CONVERGENCIA_TRASEIRA_MIN": "0.3",
-            "CONVERGENCIA_TRASEIRA_MAX": "1.3",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "1.3"
         },
         {
             "MARCA": "AUDI",
@@ -968,8 +964,7 @@
             "CAMBER_TRASEIRA_MIN": "-0º45",
             "CAMBER_TRASEIRA_MAX": "-0º15",
             "CONVERGENCIA_TRASEIRA_MIN": "0.0",
-            "CONVERGENCIA_TRASEIRA_MAX": "1.9",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "1.9"
         },
         {
             "MARCA": "AUDI",
@@ -983,8 +978,7 @@
             "CAMBER_TRASEIRA_MIN": "-1°45",
             "CAMBER_TRASEIRA_MAX": "-0°55",
             "CONVERGENCIA_TRASEIRA_MIN": "0°10",
-            "CONVERGENCIA_TRASEIRA_MAX": "0°30",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "0°30"
         },
         {
             "MARCA": "AUDI",
@@ -998,8 +992,7 @@
             "CAMBER_TRASEIRA_MIN": "-1°19",
             "CAMBER_TRASEIRA_MAX": "-0°41",
             "CONVERGENCIA_TRASEIRA_MIN": "0°01",
-            "CONVERGENCIA_TRASEIRA_MAX": "0°38",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "0°38"
         },
         {
             "MARCA": "AUDI",
@@ -1013,8 +1006,7 @@
             "CAMBER_TRASEIRA_MIN": "-0°30",
             "CAMBER_TRASEIRA_MAX": "0°00",
             "CONVERGENCIA_TRASEIRA_MIN": "0°01",
-            "CONVERGENCIA_TRASEIRA_MAX": "0°19",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "0°19"
         },
         {
             "MARCA": "AUDI",
@@ -1028,8 +1020,7 @@
             "CAMBER_TRASEIRA_MIN": "-1°19",
             "CAMBER_TRASEIRA_MAX": "-0°41",
             "CONVERGENCIA_TRASEIRA_MIN": "0°01",
-            "CONVERGENCIA_TRASEIRA_MAX": "0°38",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "0°38"
         },
         {
             "MARCA": "AUDI",
@@ -1043,8 +1034,7 @@
             "CAMBER_TRASEIRA_MIN": "-1°15",
             "CAMBER_TRASEIRA_MAX": "-0°15",
             "CONVERGENCIA_TRASEIRA_MIN": "0°10",
-            "CONVERGENCIA_TRASEIRA_MAX": "0°28",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "0°28"
         },
         {
             "MARCA": "AUDI",
@@ -1058,8 +1048,7 @@
             "CAMBER_TRASEIRA_MIN": "-1°15",
             "CAMBER_TRASEIRA_MAX": "-0°15",
             "CONVERGENCIA_TRASEIRA_MIN": "0°10",
-            "CONVERGENCIA_TRASEIRA_MAX": "0°28",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "0°28"
         },
         {
             "MARCA": "AUDI",
@@ -1073,8 +1062,7 @@
             "CAMBER_TRASEIRA_MIN": "-0°30",
             "CAMBER_TRASEIRA_MAX": "0°00",
             "CONVERGENCIA_TRASEIRA_MIN": "0°00",
-            "CONVERGENCIA_TRASEIRA_MAX": "0°20",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "0°20"
         },
         {
             "MARCA": "AUDI",
@@ -1088,8 +1076,7 @@
             "CAMBER_TRASEIRA_MIN": "-0°30",
             "CAMBER_TRASEIRA_MAX": "0°00",
             "CONVERGENCIA_TRASEIRA_MIN": "0°00",
-            "CONVERGENCIA_TRASEIRA_MAX": "0°11",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "0°11"
         },
         {
             "MARCA": "AUDI",
@@ -1103,8 +1090,7 @@
             "CAMBER_TRASEIRA_MIN": "-0°30",
             "CAMBER_TRASEIRA_MAX": "0°00",
             "CONVERGENCIA_TRASEIRA_MIN": "0°01",
-            "CONVERGENCIA_TRASEIRA_MAX": "0°19",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "0°19"
         },
         {
             "MARCA": "AUDI",
@@ -1118,8 +1104,7 @@
             "CAMBER_TRASEIRA_MIN": "-0°30",
             "CAMBER_TRASEIRA_MAX": "0°00",
             "CONVERGENCIA_TRASEIRA_MIN": "0°00",
-            "CONVERGENCIA_TRASEIRA_MAX": "0°20",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "0°20"
         },
         {
             "MARCA": "AUDI",
@@ -1133,8 +1118,7 @@
             "CAMBER_TRASEIRA_MIN": "-1°20",
             "CAMBER_TRASEIRA_MAX": "-0°20",
             "CONVERGENCIA_TRASEIRA_MIN": "0°10",
-            "CONVERGENCIA_TRASEIRA_MAX": "0°30",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "0°30"
         },
         {
             "MARCA": "AUDI",
@@ -1148,8 +1132,7 @@
             "CAMBER_TRASEIRA_MIN": "-1°20",
             "CAMBER_TRASEIRA_MAX": "-0°20",
             "CONVERGENCIA_TRASEIRA_MIN": "0°10",
-            "CONVERGENCIA_TRASEIRA_MAX": "0°30",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "0°30"
         },
         {
             "MARCA": "AUDI",
@@ -1163,8 +1146,7 @@
             "CAMBER_TRASEIRA_MIN": "-0°30",
             "CAMBER_TRASEIRA_MAX": "0°00",
             "CONVERGENCIA_TRASEIRA_MIN": "0°00",
-            "CONVERGENCIA_TRASEIRA_MAX": "0°20",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "0°20"
         },
         {
             "MARCA": "AUDI",
@@ -1178,8 +1160,7 @@
             "CAMBER_TRASEIRA_MIN": "-0°30",
             "CAMBER_TRASEIRA_MAX": "0°00",
             "CONVERGENCIA_TRASEIRA_MIN": "0°00",
-            "CONVERGENCIA_TRASEIRA_MAX": "0°20",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "0°20"
         },
         {
             "MARCA": "AUDI",
@@ -1193,8 +1174,7 @@
             "CAMBER_TRASEIRA_MIN": "-1°10",
             "CAMBER_TRASEIRA_MAX": "-0°10",
             "CONVERGENCIA_TRASEIRA_MIN": "0°00",
-            "CONVERGENCIA_TRASEIRA_MAX": "0°20",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "0°20"
         },
         {
             "MARCA": "AUDI",
@@ -1208,8 +1188,7 @@
             "CAMBER_TRASEIRA_MIN": "-1°10",
             "CAMBER_TRASEIRA_MAX": "-0°10",
             "CONVERGENCIA_TRASEIRA_MIN": "0°00",
-            "CONVERGENCIA_TRASEIRA_MAX": "0°20",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "0°20"
         },
         {
             "MARCA": "AUDI",
@@ -1223,8 +1202,7 @@
             "CAMBER_TRASEIRA_MIN": "-1°15",
             "CAMBER_TRASEIRA_MAX": "-0°15",
             "CONVERGENCIA_TRASEIRA_MIN": "0°10",
-            "CONVERGENCIA_TRASEIRA_MAX": "0°30",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "0°30"
         },
         {
             "MARCA": "AUDI",
@@ -1238,8 +1216,7 @@
             "CAMBER_TRASEIRA_MIN": "-1°19",
             "CAMBER_TRASEIRA_MAX": "-0°41",
             "CONVERGENCIA_TRASEIRA_MIN": "0°01",
-            "CONVERGENCIA_TRASEIRA_MAX": "0°39",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "0°39"
         },
         {
             "MARCA": "AUDI",
@@ -1253,8 +1230,7 @@
             "CAMBER_TRASEIRA_MIN": "-1°19",
             "CAMBER_TRASEIRA_MAX": "-0°41",
             "CONVERGENCIA_TRASEIRA_MIN": "0°01",
-            "CONVERGENCIA_TRASEIRA_MAX": "0°39",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "0°39"
         },
         {
             "MARCA": "AUDI",
@@ -1268,8 +1244,7 @@
             "CAMBER_TRASEIRA_MIN": "-1°15",
             "CAMBER_TRASEIRA_MAX": "-0°15",
             "CONVERGENCIA_TRASEIRA_MIN": "0°10",
-            "CONVERGENCIA_TRASEIRA_MAX": "0°30",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "0°30"
         },
         {
             "MARCA": "AUDI",
@@ -1283,8 +1258,7 @@
             "CAMBER_TRASEIRA_MIN": "-0°30",
             "CAMBER_TRASEIRA_MAX": "0°00",
             "CONVERGENCIA_TRASEIRA_MIN": "0°01",
-            "CONVERGENCIA_TRASEIRA_MAX": "0°20",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "0°20"
         },
         {
             "MARCA": "AUDI",
@@ -1298,8 +1272,7 @@
             "CAMBER_TRASEIRA_MIN": "-1°20",
             "CAMBER_TRASEIRA_MAX": "-0°40",
             "CONVERGENCIA_TRASEIRA_MIN": "0°00",
-            "CONVERGENCIA_TRASEIRA_MAX": "0°40",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "0°40"
         },
         {
             "MARCA": "AUDI",
@@ -1313,8 +1286,7 @@
             "CAMBER_TRASEIRA_MIN": "-2°00",
             "CAMBER_TRASEIRA_MAX": "-1°20",
             "CONVERGENCIA_TRASEIRA_MIN": "0°15",
-            "CONVERGENCIA_TRASEIRA_MAX": "0°45",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "0°45"
         },
         {
             "MARCA": "AUDI",
@@ -1328,8 +1300,7 @@
             "CAMBER_TRASEIRA_MIN": "-1°19",
             "CAMBER_TRASEIRA_MAX": "-0°41",
             "CONVERGENCIA_TRASEIRA_MIN": "0°01",
-            "CONVERGENCIA_TRASEIRA_MAX": "0°39",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "0°39"
         },
         {
             "MARCA": "AUDI",
@@ -1343,8 +1314,7 @@
             "CAMBER_TRASEIRA_MIN": "-1°47",
             "CAMBER_TRASEIRA_MAX": "-1°07",
             "CONVERGENCIA_TRASEIRA_MIN": "0°16",
-            "CONVERGENCIA_TRASEIRA_MAX": "0°35",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "0°35"
         },
         {
             "MARCA": "AUDI",
@@ -1358,8 +1328,7 @@
             "CAMBER_TRASEIRA_MIN": "-1°10",
             "CAMBER_TRASEIRA_MAX": "-0°40",
             "CONVERGENCIA_TRASEIRA_MIN": "0°05",
-            "CONVERGENCIA_TRASEIRA_MAX": "0°25",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "0°25"
         },
         {
             "MARCA": "AUDI",
@@ -1373,8 +1342,7 @@
             "CAMBER_TRASEIRA_MIN": "-1°40",
             "CAMBER_TRASEIRA_MAX": "-0°40",
             "CONVERGENCIA_TRASEIRA_MIN": "0°20",
-            "CONVERGENCIA_TRASEIRA_MAX": "0°40",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "0°40"
         },
         {
             "MARCA": "AUDI",
@@ -1388,8 +1356,7 @@
             "CAMBER_TRASEIRA_MIN": "-1°40",
             "CAMBER_TRASEIRA_MAX": "-0°40",
             "CONVERGENCIA_TRASEIRA_MIN": "0°20",
-            "CONVERGENCIA_TRASEIRA_MAX": "0°40",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "0°40"
         },
         {
             "MARCA": "AUDI",
@@ -1403,8 +1370,7 @@
             "CAMBER_TRASEIRA_MIN": "-1°50",
             "CAMBER_TRASEIRA_MAX": "-0°50",
             "CONVERGENCIA_TRASEIRA_MIN": "0°16",
-            "CONVERGENCIA_TRASEIRA_MAX": "0°35",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "0°35"
         },
         {
             "MARCA": "AUDI",
@@ -1418,8 +1384,7 @@
             "CAMBER_TRASEIRA_MIN": "-1°50",
             "CAMBER_TRASEIRA_MAX": "-0°50",
             "CONVERGENCIA_TRASEIRA_MIN": "0°16",
-            "CONVERGENCIA_TRASEIRA_MAX": "0°35",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "0°35"
         },
         {
             "MARCA": "AUDI",
@@ -1433,8 +1398,7 @@
             "CAMBER_TRASEIRA_MIN": "-1°10",
             "CAMBER_TRASEIRA_MAX": "-0°10",
             "CONVERGENCIA_TRASEIRA_MIN": "0°02",
-            "CONVERGENCIA_TRASEIRA_MAX": "0°22",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "0°22"
         },
         {
             "MARCA": "AUDI",
@@ -1448,8 +1412,7 @@
             "CAMBER_TRASEIRA_MIN": "-1°10",
             "CAMBER_TRASEIRA_MAX": "-0°10",
             "CONVERGENCIA_TRASEIRA_MIN": "0°02",
-            "CONVERGENCIA_TRASEIRA_MAX": "0°22",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "0°22"
         },
         {
             "MARCA": "AUDI",
@@ -1463,8 +1426,7 @@
             "CAMBER_TRASEIRA_MIN": "-1°10",
             "CAMBER_TRASEIRA_MAX": "-0°10",
             "CONVERGENCIA_TRASEIRA_MIN": "0°02",
-            "CONVERGENCIA_TRASEIRA_MAX": "0°22",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "0°22"
         },
         {
             "MARCA": "AUDI",
@@ -1478,8 +1440,7 @@
             "CAMBER_TRASEIRA_MIN": "-1°35",
             "CAMBER_TRASEIRA_MAX": "-0°55",
             "CONVERGENCIA_TRASEIRA_MIN": "0°14",
-            "CONVERGENCIA_TRASEIRA_MAX": "0°34",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "0°34"
         },
         {
             "MARCA": "AUDI",
@@ -1493,8 +1454,7 @@
             "CAMBER_TRASEIRA_MIN": "-1°50",
             "CAMBER_TRASEIRA_MAX": "-1°10",
             "CONVERGENCIA_TRASEIRA_MIN": "0°05",
-            "CONVERGENCIA_TRASEIRA_MAX": "0°25",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "0°25"
         },
         {
             "MARCA": "AUDI",
@@ -1508,8 +1468,7 @@
             "CAMBER_TRASEIRA_MIN": "-1°28",
             "CAMBER_TRASEIRA_MAX": "-0°48",
             "CONVERGENCIA_TRASEIRA_MIN": "0°29",
-            "CONVERGENCIA_TRASEIRA_MAX": "0°49",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "0°49"
         },
         {
             "MARCA": "AUDI",
@@ -1523,8 +1482,7 @@
             "CAMBER_TRASEIRA_MIN": "-1°40",
             "CAMBER_TRASEIRA_MAX": "-0°40",
             "CONVERGENCIA_TRASEIRA_MIN": "0°20",
-            "CONVERGENCIA_TRASEIRA_MAX": "0°40",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "0°40"
         },
         {
             "MARCA": "AUDI",
@@ -1538,8 +1496,7 @@
             "CAMBER_TRASEIRA_MIN": "-1°40",
             "CAMBER_TRASEIRA_MAX": "-0°24",
             "CONVERGENCIA_TRASEIRA_MIN": "0°20",
-            "CONVERGENCIA_TRASEIRA_MAX": "0°40",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "0°40"
         },
         {
             "MARCA": "AUDI",
@@ -1553,8 +1510,7 @@
             "CAMBER_TRASEIRA_MIN": "-1°40",
             "CAMBER_TRASEIRA_MAX": "-0°40",
             "CONVERGENCIA_TRASEIRA_MIN": "0°20",
-            "CONVERGENCIA_TRASEIRA_MAX": "0°40",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "0°40"
         },
         {
             "MARCA": "AUDI",
@@ -1568,8 +1524,7 @@
             "CAMBER_TRASEIRA_MIN": "-1°50",
             "CAMBER_TRASEIRA_MAX": "-0°50",
             "CONVERGENCIA_TRASEIRA_MIN": "0°16",
-            "CONVERGENCIA_TRASEIRA_MAX": "0°35",
-            "undefined": "AUDI"
+            "CONVERGENCIA_TRASEIRA_MAX": "0°35"
         },
         {
             "MARCA": "AUDI",
